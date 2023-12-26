@@ -71,3 +71,8 @@ main .profile p{
     font-weight: 800;
     color: var(--Black);
 }
+@media screen and (max-width:375px) {
+    main{
+        width: 290px;
+    }
+}
