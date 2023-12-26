@@ -54,6 +54,10 @@ main h1{
     font-weight: 800;
     font-size: 25px;
 }
+main h1:hover{
+    color: var(--Yellow);
+    cursor: pointer;
+}
 main p:last-of-type{
     color: var(--Grey);
 }
